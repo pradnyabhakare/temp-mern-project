@@ -1,5 +1,5 @@
 import React from 'react';
-import Wrapper from '../assets/wrappers/Jobinfo';
+import Wrapper from '../assets/wrappers/JobInfo';
 
 const Jobinfo = ({ icon, text }) => {
     
