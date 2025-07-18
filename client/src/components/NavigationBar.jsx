@@ -3,7 +3,7 @@ import Wrapper from '../assets/wrappers/Navbar';
 import { FaAlignLeft } from 'react-icons/fa';
 import Logo from './Logo';
 import { useDashboardContext } from '../pages/DashboardLayout';
-import LogoutContainer from './logoutContainer';
+import LogoutContainer from './LogoutContainer';
 import Themetoggle from './Themetoggle';
 
 const NavigationBar = () => {
