@@ -13,10 +13,12 @@ const Landing = () => {
     <div className="container page">
       <div className="info">
         <h1>
-          Job <span>Tracking</span> App
+          Job <span>Logging</span> App
         </h1>
         <p>
-          I'm baby artisan big mood af mixtape. Kickstarter tonx JOMO unicorn. Vice la croix VHS succulents typewriter tumblr, taxidermy meditation. Vibecession wayfarers banjo +1. Pork belly 3 wolf moon dreamcatcher neutral milk hotel church-key schlitz snackwave. Health goth offal YOLO, tonx art party put a bird on it kale chips la croix poutine bitters hot chicken cray fam raw denim intelligentsia.
+          Kickstarter React Router meets MongoDB mixtape, brewed with a splash of Vite and Cloudinary unicorn vibes. Cookies authenticate your hustle while JWT keeps your dreams secure like a thrifted neutral milk hotel cassette in your denim jacket pocket.
+
+Schlitz-level snackwave UX meets React Query’s hot chicken caching – pure health goth for your job tracking ecosystem. Styled Components drip like la croix bitters over minimalist dashboards, keeping your workflow raw yet intelligentsia smooth. 
         </p>
         <Link to='/register' className='btn register-link'>
           Register
